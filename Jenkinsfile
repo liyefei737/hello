@@ -1,6 +1,8 @@
 pipeline {
     agent any
-    stage("hello") {
+    stages {
+        stage("hello") {
 
+        }
     }
 }
