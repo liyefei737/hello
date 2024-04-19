@@ -1,2 +1,5 @@
 pipeline {
+    stage("hello") {
+
+    }
 }
